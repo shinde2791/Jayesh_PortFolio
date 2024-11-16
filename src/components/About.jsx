@@ -49,10 +49,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I am Omkar Bharitkar, an undergraduate at IIIT Pune and a full-stack web developer,
-          IoT enthusiast, tech-savvy individual, and a passionate traveler.<br />
-          Eager to use my skills and knowledge in 
-          web and software development to make a meaningful contribution.
+          I am Jayesh Shinde, Certified AWS Solutions Architect Associate with a strong background in DevOps and full-stack development. Proficient in designing and implementing scalable, secure cloud solutions and building robust, end-to-end applications using modern technologies. Skilled in both front-end (React, JavaScript) and back-end (Node.js, Java) development. Passionate about leveraging technology to solve complex problems and enhance business efficiency.
   
         </motion.p>
 

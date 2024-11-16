@@ -108,22 +108,22 @@ const technologies = [
 const Social = [
   {
     handle:
-      "omkar2711",
-    handle_link:"https://github.com/omkar2711",
+      "shinde2791",
+    handle_link:"https://github.com/shinde2791",
     name: "Github",
   
     image: "https://avatars.githubusercontent.com/u/75433632?v=4",
   },
   {
     handle:
-      "Omkar Bharitkar",
-    handle_link:"https://www.linkedin.com/in/omkar-bharitkar-88a912200/",
+      "Jayesh Shinde",
+    handle_link:"https://www.linkedin.com/in/jayesh-shinde-4677ab210/",
     name: "LinkedIn",
     image: "https://avatars.githubusercontent.com/u/75433632?v=4",  },
   {
     handle:
-      "_o_m_k_a_r_2711",
-    handle_link:"https://www.instagram.com/_o_m_k_a_r_2711/",
+      "shinde_jayesh2791",
+    handle_link:"https://www.instagram.com/shinde_jayesh2791/",
     name: "Instagram",
     image: "https://avatars.githubusercontent.com/u/75433632?v=4",  },
 ];
@@ -200,16 +200,16 @@ const projects = [
 
 const experiences = [
   {
-    title: "Software Developer Engineer Intern",
-    company_name: "SyncSense",
+    title: "AWS Solutions Architect Associate Intern",
+    company_name: "AI-VARIANT",
     icon: syncsense,
     iconBg: "#131313",
-    date: "Oct 2023 - March 2024",
+    date: "April 2023 – Oct 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Assisted extensively in the design , deployment, and management of scalable , secure , and highly cost-effective AWS solutions..",
+      "Actively collaborated with the development team to successfully implement robust cloud-based solutions.",
+      "Consistently provided comprehensive technical support and efficient troubleshooting for a wide range of AWS-related issues.",
+      
     ],
   },
   // {
@@ -226,28 +226,28 @@ const experiences = [
   //   ],
   // },
   {
-    title: "Technical Content Strategist Intern",
-    company_name: "upGrad",
+    title: "Front-End Developer",
+    company_name: "DEVIKTECH EDUCATION LLP",
     icon: upgrad,
     iconBg: "#e62d3e",
-    date: "March 2024 - July 2024",
+    date: "Jan 2024 – June 2024",
     points: [
-      "Directed content development for a full stack development cohort, with a strong emphasis on practical skills.",
-      "Collaborated closely with industry experts to ensure the curriculum met current and evolving professional standards.",
-      "Utilized Java for implementing data structures and employed the MERN Stack for full-stack development projects.",
+      "Developed user-friendly interfaces for educational platforms at Deviktech using modern front-end technologies.",
+      "Collaborated with the design and back-end teams to enhance user experience and functionality in the edutech domain.",
+      "Implemented responsive web designs to ensure seamless performance across various devices and screen sizes.",
     ],
   },
   {
-    title: "Associate - Content",
+    title: "FSD-Intern",
     company_name: "upGrad",
     icon: upgrad,
     iconBg: "#e62d3e",
-    date: "July 2024 - Present",
+    date: "Nov 2024 - Present",
     points: [
-      "Assisted senior instructors in teaching 80+ students across 4 batches in Full Stack Development.",
-      "Created curriculum, incorporating industry insights and practical case studies to enhance learning.",
-      "Led doubt-solving sessions and provided personal guidance to support learners in understanding key concepts.",
-      "Designed capstone web development projects to give students hands-on experience with real-world applications.",
+      "Designed, developed, and maintained scalable web applications, ensuring seamless user experience across the stack.",
+      "Implemented frontend with React and backend using Node.js, Express, and integrated with MongoDB and MySQL databases.",
+      "Optimized backend logic and APIs using Spring Boot and RESTful services to support business requirements.",
+      
     ],
   },
 ];
