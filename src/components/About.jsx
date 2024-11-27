@@ -67,7 +67,7 @@ const About = () => {
           <motion.button
             className="bg-tertiary text-secondary px-10 py-5 rounded-[20px]"
             onClick={() => {
-              window.location.href = 'https://drive.google.com/file/d/1uqATk5cr6AzjJA8edUZQcS9Gr2uzpIXe/view'; 
+              window.location.href = 'https://drive.google.com/drive/folders/1atXW0mdcs_5pQ0enxwPl1gt1_TQewYqc'; 
             }}
           >
             Resume
