@@ -22,6 +22,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  stanvac,
 } from "../assets";
 
 export const navLinks = [
@@ -228,7 +229,7 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "Stanvac System",
-    icon: upgrad,
+    icon: stanvac,
     iconBg: "#e62d3e",
     date: "Sep 2023 – Present",
     points: [
