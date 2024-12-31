@@ -22,7 +22,7 @@ import {
   tripguide,
   threejs,
 } from "../assets";
-import {stanvac} from '../assets/company/stanvac'
+import {stanvac} from '../assets/company/stanvac.png'
 
 export const navLinks = [
   {
