@@ -204,7 +204,7 @@ const experiences = [
     company_name: "AI-VARIANT",
     icon: syncsense,
     iconBg: "#131313",
-    date: "April 2023 – Oct 2023",
+    date: "March 2023 – Aug 2023",
     points: [
       "Assisted extensively in the design , deployment, and management of scalable , secure , and highly cost-effective AWS solutions..",
       "Actively collaborated with the development team to successfully implement robust cloud-based solutions.",
@@ -226,30 +226,20 @@ const experiences = [
   //   ],
   // },
   {
-    title: "Front-End Developer",
-    company_name: "DEVIKTECH EDUCATION LLP",
+    title: "Software Developer",
+    company_name: "Stanvac System",
     icon: upgrad,
     iconBg: "#e62d3e",
-    date: "Jan 2024 – June 2024",
+    date: "Sep 2023 – Present",
     points: [
-      "Developed user-friendly interfaces for educational platforms at Deviktech using modern front-end technologies.",
-      "Collaborated with the design and back-end teams to enhance user experience and functionality in the edutech domain.",
-      "Implemented responsive web designs to ensure seamless performance across various devices and screen sizes.",
+      "As a Software Developer on Stanvac Systems' 'Imagine' project in the medical billing domain,",
+      " I optimized the 'Track Billing Status' module, reducing user interaction time by 30% and increasing system responsiveness by 40%.",
+      "By integrating real-time billing status tracking, I improved data retrieval accuracy by 95% and delivered instant updates to doctors.",
+      " My contributions enhanced cross-platform usability by 25% and reduced user errors by 20% through refined UI design.",
+      " Additionally, I achieved a 99.9% compliance rate in patient data verification, reduced billing discrepancies by 15%, and ensured a 99.5% backend uptime for reliable payment tracking.",
     ],
   },
-  {
-    title: "FSD-Intern",
-    company_name: "upGrad",
-    icon: upgrad,
-    iconBg: "#e62d3e",
-    date: "Nov 2024 - Present",
-    points: [
-      "Designed, developed, and maintained scalable web applications, ensuring seamless user experience across the stack.",
-      "Implemented frontend with React and backend using Node.js, Express, and integrated with MongoDB and MySQL databases.",
-      "Optimized backend logic and APIs using Spring Boot and RESTful services to support business requirements.",
-      
-    ],
-  },
+
 ];
 
 export { services, technologies,experiences, Social, projects };

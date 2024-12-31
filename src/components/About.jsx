@@ -49,7 +49,12 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I am Jayesh Shinde, Certified AWS Solutions Architect Associate with a strong background in DevOps and full-stack development. Proficient in designing and implementing scalable, secure cloud solutions and building robust, end-to-end applications using modern technologies. Skilled in both front-end (React, JavaScript) and back-end (Node.js, Java) development. Passionate about leveraging technology to solve complex problems and enhance business efficiency.
+        
+           As a Software Developer with over a year of experience, 
+           I specialize in building scalable applications using React.js, Express.js, Node.js, MongoDB, 
+           and Java. With a strong foundation in DSA, I’ve achieved a 30% improvement in code efficiency in key projects. 
+           Certified as an AWS Solutions Architect Associate, I’ve contributed to cloud projects that enhanced scalability by 40% and optimized costs by 20%. 
+           My DevOps skills have streamlined deployment processes, reducing deployment times by 25%. I’m passionate about problem-solving, system design, and creating impactful solutions while driving innovation in every project.
   
         </motion.p>
 
