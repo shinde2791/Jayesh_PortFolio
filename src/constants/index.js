@@ -203,7 +203,7 @@ const experiences = [
   {
     title: "AWS Solutions Architect Associate Intern",
     company_name: "AI-VARIANT",
-    icon: syncsense,
+    //icon: syncsense,
     iconBg: "#131313",
     date: "March 2023 – Aug 2023",
     points: [
