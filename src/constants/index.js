@@ -149,8 +149,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/omkar2711/SIID_React_Website",
-    live_link:"https://new1-omkar2711.vercel.app/",
+    source_code_link: "https://github.com/shinde2791/Jayesh_PortFolio.git",
+    live_link:"https://jayesh-portfolio-rose.vercel.app/",
   },
   {
     name: "Wanderer",
